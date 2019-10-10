@@ -1,0 +1,8 @@
+/infra/.terraform
+/infra/terraform.tfstate
+/infra/terraform.tfstate.backup
+/infra/init/site/nginx/ssl/blockstack.ml.crt
+/infra/init/site/nginx/ssl/blockstack.ml.key
+/infra/init/site/nginx/ssl/dhparam.pem
+/infra/keys/process-alpha.pem
+
