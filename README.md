@@ -14,7 +14,7 @@ sudo openssl req -x509 -nodes -sha256 -days 365 \
 ```
 ###### Command for generating dhparam.pem file
 ```bash
-sudo openssl dhparam -out /etc/nginx/ssl/dhparam.pem 4096
+sudo openssl dhparam -out ./infra/init/site/nginx/ssl/dhparam.pem 4096
 ```
 ## Design
 #### Provisioning
